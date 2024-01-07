@@ -1,0 +1,20 @@
+_commit: 57cf553
+_src_path: gh:bswck/skeleton
+author_username: bswck
+docs: true
+docs_slug: futurebot
+email_address: bswck.dev@gmail.com
+github_username: bswck
+license_name: AGPL-3.0
+org_full_name: Bartosz Sławecki
+package_name: futurebot
+project_description: A simple bot @futurecoder Discord that helps you join the community!
+publish_on_pypi: true
+pypi_project_description: A simple bot @futurecoder Discord that helps you join the
+    community!
+pypi_project_name: futurebot
+python_version: '3.11'
+repo_name: futurebot
+tests: true
+use_precommit: true
+visibility: public
